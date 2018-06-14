@@ -40,4 +40,4 @@ Requests must be made against the develop branch. Pull requests submitted agains
 All pull requests are subject to approval by the repository owners, who have sole discretion over acceptance or denial.
 
 ### License
-doubleclick-menu is under MIT license - https://github.com/bryan-sebastian/doubleclick-menu/blob/master/LICENSE
+doubleclick-menu is under MIT license - https://github.com/bryan-sebastian/doubleclick-menu/blob/master/LICENSE.md
